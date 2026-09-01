@@ -1,0 +1,38 @@
+{
+  "name": "era",
+  "version": "0.1.0",
+  "description": "Era MCP server — sign in, provision synthetic design partners, and manage tokens across Era's connector fleet.",
+  "author": {
+    "name": "Eon",
+    "url": "https://eon.io"
+  },
+  "homepage": "https://console.era.eon.io",
+  "license": "Apache-2.0",
+  "keywords": [
+    "era",
+    "mcp",
+    "synthetic-data",
+    "design-partner",
+    "eon"
+  ],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Era",
+    "shortDescription": "Provision and manage synthetic design partners via Era.",
+    "longDescription": "Connect to the Era MCP server to sign in, provision a synthetic design partner across Era's connector fleet, add systems to it, rotate or scope its tokens, check usage, and remove it.",
+    "developerName": "Eon",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://console.era.eon.io",
+    "defaultPrompt": [
+      "Create a design partner",
+      "List my design partners",
+      "Check usage for my design partner"
+    ],
+    "screenshots": []
+  }
+}

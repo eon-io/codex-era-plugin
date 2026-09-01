@@ -1,0 +1,36 @@
+Era Plugin for Codex
+Copyright 2026 Eon io Ltd
+
+This product includes software developed by Eon io Ltd
+(https://eon.io).
+
+Licensed under the Apache License, Version 2.0 (the "License").
+A copy of the License is included in the LICENSE file distributed
+with this work and is also available at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+----------------------------------------------------------------------
+NOTE ON ACCESS TO THE ERA SERVICE
+
+The Apache 2.0 License governs the source code in this repository
+only. It does not grant any right to access or use the Era service,
+the Era API, or any Era-hosted data.
+
+Use of the Era service and the Era API requires a valid Era account
+and is governed by the Era by Eon design partner program terms of
+service (distinct from Eon's own product terms) and Eon's company
+privacy policy, both available at https://console.era.eon.io. The
+Eon name, the Eon logo, and other Eon trademarks are not licensed
+under the Apache License and remain the property of Eon io Ltd;
+see Section 6 of the Apache License 2.0.
+
+----------------------------------------------------------------------
+THIRD-PARTY NOTICES
+
+This product may include third-party software components. Attribution
+notices required by those components, if any, are listed below. If you
+add or remove a third-party dependency, update this section to keep
+attributions accurate.
+
+(No third-party notices at this time.)

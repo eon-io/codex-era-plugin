@@ -1,0 +1,20 @@
+{
+  "name": "era-eon-io",
+  "interface": {
+    "displayName": "Era"
+  },
+  "plugins": [
+    {
+      "name": "era",
+      "source": {
+        "source": "github",
+        "repo": "eon-io/codex-era-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
