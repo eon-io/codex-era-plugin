@@ -1,6 +1,6 @@
 {
   "name": "era",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Era MCP server — sign in, provision synthetic design partners, and manage tokens across Era's connector fleet.",
   "author": {
     "name": "Eon",
